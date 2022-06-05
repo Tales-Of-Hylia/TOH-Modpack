@@ -1,0 +1,26 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  x = 73
+  width = 49
+  actionid = bd78fa08-7664-4d02-82bb-86bead8930ce1653867815124
+  action = addwebtexture
+  y = 146
+  url = https://http2.mlstatic.com/D_NQ_NP_797085-MLB48657868343_122021-W.jpg
+  height = 100
+}
+
