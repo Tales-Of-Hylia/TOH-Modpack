@@ -49,11 +49,11 @@ elenaidodge:sluggish
 elenaidodge:long_sluggish
 elenaidodge:skystride
 elenaidodge:long_skystride
-enderio:withering
-enderio:long_withering
 enderio:floating
 enderio:strong_floating
 enderio:long_floating
+enderio:withering
+enderio:long_withering
 enderio:confusion
 enderio:long_confusion
 blue_skies:unluck

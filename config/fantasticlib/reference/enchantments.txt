@@ -33,11 +33,11 @@ bibliocraft:bibliocraft.readingench
 blue_skies:uncivilized
 endercore:autosmelt
 endercore:xpboost
-enderio:witherarrow
-enderio:soulbound
 enderio:shimmer
 enderio:repellent
 enderio:witherweapon
+enderio:witherarrow
+enderio:soulbound
 spartanweaponry:propulsion
 spartanweaponry:razors_edge
 spartanweaponry:incendiary
