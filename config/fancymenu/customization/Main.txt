@@ -14,13 +14,37 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
   orientation = top-left
-  x = 73
-  width = 49
-  actionid = bd78fa08-7664-4d02-82bb-86bead8930ce1653867815124
-  action = addwebtexture
-  y = 146
-  url = https://http2.mlstatic.com/D_NQ_NP_797085-MLB48657868343_122021-W.jpg
-  height = 100
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = joinserver
+  x = 155
+  width = 201
+  actionid = 5df64206-cd79-4462-99a1-ea7e48f83eba1655684560105
+  action = addbutton
+  y = 206
+  label = Join Server  %serverping:<serverIP>%
+  value = 26.167.157.50
+  height = 20
 }
 
